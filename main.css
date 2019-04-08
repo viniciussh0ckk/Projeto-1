@@ -1,0 +1,35 @@
+.header-1 {
+    background-color: #000000;
+    height: 64px;
+    border: #0f0f0f
+}
+
+.main {
+    width: 100;
+    position: relative;
+    margin: 0 auto;
+}
+
+.menu-principal {
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    padding: 14px;
+        float: left;
+        height: 70%;
+}
+
+.paineis ul li {
+    display: inline-block;
+    float: left;
+}
+
+.paineis {
+    height: 30%;
+    float: right;
+}
+.texto {
+    margin-bottom: 1000 ;
+}
